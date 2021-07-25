@@ -15,7 +15,7 @@ namespace MyDictionary
 
             
 
-            Console.WriteLine("1");
+          
 
         }
         
